@@ -11,6 +11,10 @@
     Checking commit to a feature branch.
 */
 
+/*
+    Checking second commit to a feature branch.
+*/
+
 
 {{ config(materialized='table') }}
 
