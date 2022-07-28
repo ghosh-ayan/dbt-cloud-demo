@@ -7,6 +7,15 @@
     Try changing "table" to "view" below
 */
 
+/*
+    Checking commit to a feature branch.
+*/
+
+/*
+    Checking second commit to a feature branch.
+*/
+
+
 {{ config(materialized='table') }}
 
 with source_data as (
