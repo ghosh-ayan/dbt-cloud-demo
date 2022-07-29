@@ -10,6 +10,9 @@
 /*
     Checking commit to a feature branch.
 */
+/*
+test
+*/
 
 /*
     Checking second commit to a feature branch.
